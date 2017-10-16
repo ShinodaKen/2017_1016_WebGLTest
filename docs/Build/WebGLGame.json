@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebGLGame.data.unityweb",
+"asmCodeUrl": "WebGLGame.asm.code.unityweb",
+"asmMemoryUrl": "WebGLGame.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGLGame.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
